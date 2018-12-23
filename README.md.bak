@@ -6,17 +6,12 @@ Currently, only wired controllers are supported.  Future plans include investiga
 
 # ThisCodedBox Goals and Additions #
 
-Configured driver package to function on **Windows 10 x64**
-- Small changes to .inf files to allow catalog files to be built
+Configured driver package to function on Windows 10
+- Small changes to .inf files
 - Instructions for driver signing
 
-# CAUTION #
-
-This will tell you to create your own signed drivers and install them - if you don't understand why this is sketchy, look into it before attempting to follow these instructions.
-
-# Quick and Dirty How-To #
-
-
+**Quick and Dirty How-To**
 
 	c:\doit
 
+Make sure that full path to the build script does not contain spaces.
