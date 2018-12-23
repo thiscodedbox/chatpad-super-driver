@@ -14,7 +14,7 @@ Configured driver package to function on **Windows 10 x64**
 
 This will tell you to create your own signed drivers and install them - if you don't understand why this is sketchy, look into it before attempting to follow these instructions.
 
-# Quick and Dirty How-To
+#### Quick and Dirty How-To
 
 	c:\doit
 
