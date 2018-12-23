@@ -16,7 +16,5 @@ This will tell you to create your own signed drivers and install them - if you d
 
 # Quick and Dirty How-To #
 
-
-
 	c:\doit
 
