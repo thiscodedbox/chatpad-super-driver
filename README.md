@@ -16,11 +16,9 @@ This will tell you to create your own signed drivers and install them - if you d
 
 #### Quick and Dirty How-To
 
-[Start here](https://github.com/thiscodedbox/chatpad-super-driver/wiki/LEGACY-Getting-Started) and [here](https://github.com/thiscodedbox/chatpad-super-driver/wiki/LEGACY-ReadMe) until updated instructions are ready
+Basic instructions [per each release](https://github.com/thiscodedbox/chatpad-super-driver/releases).
 
-and now:
-
-	c:\doit
+For more detail, review the legacy docs [here](https://github.com/thiscodedbox/chatpad-super-driver/wiki/LEGACY-Getting-Started) and [here](https://github.com/thiscodedbox/chatpad-super-driver/wiki/LEGACY-ReadMe).
 
 #### Credit
 
