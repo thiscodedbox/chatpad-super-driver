@@ -1,6 +1,3 @@
-# DON'T USE THIS YET
-## it's a fork so I can't make it private but it's not ready or working
-
 #### Original Project Information
 
 >This project aims to provide drivers and utilities to provide unofficial support for the Microsoft XBox 360 controller chatpad under various Windows operating systems.  The chatpad is a small keyboard that attaches to a controller, but Microsoft has not released Windows drivers.  Thus, this project exists to provide a solution.
