@@ -25,3 +25,6 @@ and now:
 
 	c:\doit
 
+#### Credit
+
+Thank you to @GAFBlizzard for the original project.
